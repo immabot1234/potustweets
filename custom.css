@@ -1,0 +1,56 @@
+
+
+.container-fluid {
+  background-color: black;
+
+}
+.jumbotron {
+  background-color: black;
+
+  height:450px;
+  width: 700px;
+  margin-left: 350px;
+}
+.card-header {
+  background-image: url("https://thumbs-prod.si-cdn.com/yxAcgcM0Av11y_2ZzJpjldsR17A=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/starspangledbanner_nov08_631.jpg");
+  color: white;
+}
+
+.btn {
+  background-image: url("https://thumbs-prod.si-cdn.com/yxAcgcM0Av11y_2ZzJpjldsR17A=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/starspangledbanner_nov08_631.jpg");
+
+}
+
+.carousel-inner {
+  position: center;
+  height: 450px;
+  width: 650px;
+}
+
+
+.twitter-tweet {
+  color: white;
+}
+
+.carousel-control-prev-icon {
+  position: center;
+}
+
+.item {
+  position: center;
+}
+
+#row2 {
+
+  margin-left: 310px;
+  /*background-image: url("https://thumbs.dreamstime.com/z/gilded-frame-21221791.jpg");*/
+  /*z-index: 1;*/
+}
+#framedTweet {
+height:450px;
+width: 700px;
+padding: 10px;
+}
+#row3 {
+  padding: 50;
+}
