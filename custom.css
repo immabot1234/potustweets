@@ -1,11 +1,11 @@
 
 
 .container-fluid {
-  background-color: black;
+  background-color: white;
 
 }
 .jumbotron {
-  background-color: black;
+  background-color: white;
 
   height:450px;
   width: 700px;
@@ -40,17 +40,21 @@
   position: center;
 }
 
-#row2 {
+#row1 {
 
-  margin-left: 310px;
+  /*margin-left: 310px;*/
   /*background-image: url("https://thumbs.dreamstime.com/z/gilded-frame-21221791.jpg");*/
   /*z-index: 1;*/
 }
-#framedTweet {
-height:450px;
-width: 700px;
+#tweet {
+height:350px;
+width: 600px;
 padding: 10px;
+border-radius: 50px;
+margin-top: 50px;
+margin-bottom: 150px;
 }
-#row3 {
-  padding: 50;
+#row2 {
+  padding: 50px;
+  border-radius: 50px;
 }
